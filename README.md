@@ -1,16 +1,17 @@
 Developed on Arch Linux
 
-Install dependencies
-
+##Install dependencies
+```
 sudo pacman -S nodejs-lts-gallium
 git clone https://github.com/Verachill/card-validation
 cd ./hh
 npm install
-
-Start react server
-
+```
+##Start react server
+```
 npm start
-
-Start express.js server
-
+```
+##Start express.js server
+```
 npm run start-server
+```
