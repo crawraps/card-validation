@@ -4,10 +4,6 @@ This project is the implementation of a test task for getting a junior frontend 
 
 I also needed to receive data on a server organized using [express]() and the [mongo]().
 
-# Tasks
-
-This project was created to obtain the position of a frontend developer. Oddly enough, its main task was to complete the task itself.
-
 # Execution and difficulties
 
 In the part of the frontend I didn't face any difficulties. Although I had to use [mui]() and, accordingly, recall and scroll through the documentation of this library.
